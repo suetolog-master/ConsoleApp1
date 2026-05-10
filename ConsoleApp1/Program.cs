@@ -12,6 +12,9 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello, Git!");
             Console.WriteLine("Привет из основной ветки!");
+
+            Console.WriteLine("Изменение в ветке my-new-feature");
+
         }
     }
 }
